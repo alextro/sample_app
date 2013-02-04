@@ -22,6 +22,8 @@ end
 
 gem 'jquery-rails'
 
+gem 'bootstrap-sass'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
@@ -45,4 +47,6 @@ group :test do
   gem 'rspec-rails', '2.12.2'
   gem 'webrat', '0.7.3'
   gem 'spork', '0.9.2'
+  #gem 'autotetst', '4.4.6'
+  #gem 'autotest-rails-pure', '4.1.2'
 end
